@@ -1,0 +1,143 @@
+body {
+    font-family: Arial, sans-serif;
+    font-size: 16px;
+    color: #444;
+    background-color: #fff;
+    margin: 0;
+    padding: 0;
+  }
+
+  header {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    background-color: #99a2b9;
+    padding: 20px;
+  }
+
+  img {
+    width: 150px;
+    height: 150px;
+    object-fit: cover;
+    border-radius: 50%;
+  }
+
+  h1 {
+    
+    margin: 10px 0;
+    font-size: 50px;
+    text-align: center;
+  }
+
+  nav {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 20px;
+  }
+
+  #header{
+    list-style: none;
+    display: flex;
+    flex-direction: row;
+  }
+
+  h3{
+    font-size: 35px;
+    color: black;
+  }
+
+  h4{
+    font-size: 22px;
+    letter-spacing: 2px;
+  }
+  
+  
+
+  li {
+    margin: 0 10px;
+  }
+
+  a {
+    text-decoration: none;
+    color: #444;
+    font-size: 20px;
+    font-weight: bold;
+    transition: color 0.2s ease-in-out;
+  }
+
+  a:hover {
+    color: #888;
+  }
+
+  section {
+    padding: 40px;
+  }
+
+  h2 {
+    padding: 40px;
+    
+    font-size: 40px;
+    margin-bottom: 20px;
+  }
+
+  ul {
+
+    
+    list-style: square;
+    margin-right: 20px;
+    
+  }
+  
+  h5{
+    font-weight: 100;
+    color: rgb(47, 3, 3);
+  }
+
+  li {
+    
+    font-size: 20px;
+   line-height: 40px;
+  }
+  
+  #ski{
+    font-size: 24px;
+    margin-left: 30px;
+    line-height: 60px;
+  }
+
+  #ed{
+    line-height: 10px;
+    margin-left: 50px;
+  }
+
+  #work{
+    line-height: 10px;
+    margin-left: 50px;
+  }
+    #workh{
+       
+        font-size: 25px;
+  }
+
+  footer {
+    background-color: #f1f1f1;
+    padding: 20px;
+    text-align: center;
+    margin-top: 20px;
+    height: 7spx;
+  }
+
+  
+  
+ p {
+    
+    margin-bottom: 20px;
+    font-size: 20px; 
+     
+    color: #333; 
+    letter-spacing: 1px; 
+    line-height: 1.5; 
+  }
+ 
